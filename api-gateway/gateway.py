@@ -27,7 +27,7 @@ async def index(request: Request):
         pass
 
     return templates.TemplateResponse("index.html", {
-        "request": request, 
+        "request": request,
         "system": system_status
     })
 
@@ -37,13 +37,31 @@ async def contact_form(request: Request, name: str = Form(...), email: str = For
         async with httpx.AsyncClient() as client:
             await client.post(f"{ENGINE_URL}/contact", json={"name": name, "email": email, "message": message})
         return templates.TemplateResponse("index.html", {
-            "request": request, 
-            "success": True, 
+            "request": request,
+            "success": True,
             "system": {"status": "Online", "db": "Connected"}
         })
     except:
         return templates.TemplateResponse("index.html", {
-            "request": request, 
-            "error": "Backend Service Unavailable", 
+            "request": request,
+            "error": "Backend Service Unavailable",
             "system": {"status": "Degraded"}
         })
+
+@app.get("/admin", response_class=HTMLResponse)
+async def admin_panel(request: Request):
+    # In a real app, add @auth_required here
+    messages = []
+    try:
+        async with httpx.AsyncClient() as client:
+            resp = await client.get(f"{ENGINE_URL}/messages")
+            if resp.status_code == 200:
+                messages = resp.json()
+    except:
+        pass
+
+    return templates.TemplateResponse("admin.html", {
+        "request": request,
+        "messages": messages,
+        "viewer_count": 124  # Mock count, or fetch from Redis if implemented
+    })

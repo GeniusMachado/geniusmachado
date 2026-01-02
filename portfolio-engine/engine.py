@@ -49,3 +49,13 @@ async def contact(req: ContactReq):
         await session.execute(stmt)
         await session.commit()
     return {"status": "Received"}
+
+@app.get("/messages")
+async def get_messages():
+    async with AsyncSessionLocal() as session:
+        result = await session.execute(messages.select().order_by(messages.c.created_at.desc()))
+        rows = result.fetchall()
+        return [
+            {"id": r.id, "name": r.name, "email": r.email, "message": r.message, "date": str(r.created_at)}
+            for r in rows
+        ]
