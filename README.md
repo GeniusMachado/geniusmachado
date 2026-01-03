@@ -1,112 +1,208 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0F172A%26height%3D250%26section%3Dheader%26text%3DGenius%2520Machado%26fontSize%3D70%26fontAlignY%3D35%26desc%3DSenior%2520Full%2520Stack%2520Python%2520Engineer%26descAlignY%3D55%26descAlign%3D50" alt="Genius Machado Header" width="100%">
-</div>
+👋 Hi, I’m Genius Machado
+
+Senior Python / Full-Stack Software Engineer
+📍 Los Angeles, California
+📧 geniusmachado@gmail.com
+
+🔗 LinkedIn
+
+🌐 Portfolio & Blog
 
 🚀 About Me
 
-I am a Senior Software Engineer with 7+ years of experience architecting scalable, cloud-native microservices and high-throughput data pipelines. My expertise lies in Python ecosystem (FastAPI, Django), AWS cloud infrastructure, and modern DevOps practices.
+I’m a Senior Python Engineer with 7+ years of experience building scalable, secure, cloud-native systems across finance, healthcare, and enterprise analytics. I specialize in backend-heavy systems, API design, data engineering, and cloud infrastructure, while also delivering polished frontend experiences when needed.
 
-🔭 I’m currently building: GeniusMachado.com (A live microservices portfolio running on Docker & Cloudflare)
+I’ve worked at Mass General Brigham, Fitch Ratings, American Express, UnitedHealth Group, and Barclays, where I built and scaled mission-critical platforms handling high-volume data, real-time APIs, ETL pipelines, and GenAI integrations.
 
-💼 Formerly at: Mass General Brigham, Fitch Ratings, American Express, UnitedHealth Group, Barclays.
+I thrive in environments where performance, reliability, and clean architecture matter.
 
-🎓 Education: MS in Computer Science (Pace University).
+🧠 What I Do Best
+🔧 Backend & API Engineering
 
-💬 Ask me about: Distributed Systems, System Design, Trading Algorithms.
+Design and build RESTful & async APIs using FastAPI, Django, Flask
 
-🛠️ Technical Stack
+Develop secure microservices with OAuth2, JWT, LDAP
 
-<div align="center">
+Optimize API performance using Redis caching, async I/O, and query tuning
 
-Backend
+Build event-driven systems using Redis Pub/Sub, Kafka, Kinesis
 
-Cloud & DevOps
+☁️ Cloud & DevOps
 
-Data Engineering
+Architect cloud-native systems on AWS & Azure
 
-Frontend
+Hands-on with EC2, Lambda, ECS, EKS, RDS, S3, DynamoDB, Glue, Redshift
 
+Infrastructure as Code using Terraform, AWS CDK, CloudFormation
 
+Containerization with Docker, orchestration with Kubernetes (EKS, Helm)
 
-  
+CI/CD pipelines using GitHub Actions, Jenkins, GitLab CI, SonarQube
 
+📊 Data Engineering & Analytics
 
+Build ETL pipelines using Apache Airflow, AWS Glue, Spark
 
+Integrate batch & streaming data from Kafka, Kinesis, S3
 
+Work extensively with PostgreSQL, MySQL, Snowflake, Redshift, MongoDB
 
-  
+Optimize SQL for large-scale analytical workloads
 
+🤖 GenAI & Machine Learning
 
+Integrated OpenAI & AWS Bedrock into production systems
 
+Built RAG pipelines using LangChain, vector databases
 
+Enabled semantic search, document summarization, and analytics insights
 
-  
+Supported ML inference pipelines for risk & analytics platforms
 
+🎨 Frontend & Visualization
 
+Build dashboards using React.js, AngularJS, Next.js, TypeScript
 
+Data visualizations with D3.js, Recharts, Highcharts
 
+Full-stack delivery when required — backend first, UI always purposeful
 
-  
+🏢 Professional Experience
+Mass General Brigham
 
+Software Engineer – API Development
+Aug 2025 – Present | Boston, MA
 
+Build and maintain FastAPI-based APIs connecting Legacy Viewer ↔ Epic Beaker
 
-</div>
+Handle large pathology & imaging datasets using Snowflake & PostgreSQL
 
-💼 Professional Experience
+Optimize queries and stored procedures for high-volume clinical workloads
 
-Software Engineer, API Development @ Mass General Brigham (Aug 2025 – Present)
+Collaborate with pathologists, data scientists, and IT teams
 
-Optimized pathology data transfer systems using FastAPI and Snowflake. Reduced query response times for high-volume imaging datasets and integrated legacy systems with Epic Beaker.
+Refactor API routes, modularize codebases, and enforce secure design practices
 
-Python Developer @ Fitch Ratings (Oct 2023 – July 2025)
+Improve system reliability, scalability, and data accessibility
 
-Orchestrated financial data pipelines using Apache Airflow, AWS Glue, and Kafka. Built real-time rating dashboards with React/Django and implemented GenAI search tools using OpenAI and AWS Bedrock.
+Fitch Ratings
 
-Python Developer @ American Express (Jan 2023 – Sep 2023)
+Python Developer
+Oct 2023 – Jul 2025 | New York, NY
 
-Designed secure microservices for customer rewards using FastAPI and OAuth2. Deployed containerized applications to EKS (Kubernetes) via Helm charts and automated infrastructure with Terraform.
+Built Django + FastAPI services for credit risk and bond analytics
 
-📈 GitHub Stats
+Developed React + TypeScript dashboards with real-time visualizations
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGeniusMachado%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GeniusMachado's GitHub stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGeniusMachado%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
-</div>
+Designed ETL pipelines using Airflow, Glue, Kafka
 
-<div align="center">
-<a href="https://www.linkedin.com/in/geniusmachado"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin"></a>
-<a href="https://www.google.com/search?q=https://www.geniusmachado.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Site-00E5FF%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack"></a>
-<a href="mailto:geniusmachado@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact%2520Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"></a>
-</div>
+Integrated GenAI (OpenAI, Bedrock, LangChain) for semantic search & summarization
 
+Optimized APIs with Redis caching
 
+Deployed services on AWS EKS using Docker, Helm, Terraform
 
+Implemented monitoring with CloudWatch, Prometheus, Grafana, New Relic
 
+Mentored junior engineers on FastAPI architecture & CI/CD
 
+American Express
 
+Python Developer
+Jan 2023 – Sep 2023
 
+Built FastAPI & Flask microservices for financial platforms
 
+Implemented OAuth2 & JWT authentication
 
+Developed React / Next.js dashboards with D3 visualizations
 
+Designed Airflow ETL workflows loading data into Snowflake
 
+Improved performance with Redis caching
 
+Automated infra using Terraform, AWS CDK, Ansible
 
-# Genius Machado — Full Stack Portfolio
+Supported A/B testing frameworks and feature flags
 
-## 👨‍💻 About This System
-This website is not just a static page. It is a live demonstration of my engineering capabilities.
-- **Architecture**: Microservices (FastAPI Gateway + Logic Engine).
-- **Infrastructure**: Docker Containers, Nginx (via Gateway), Cloudflare Tunnel.
-- **Database**: MySQL (Persistent storage for contact submissions).
-- **Frontend**: Server-Side Rendered Jinja2 with Tailwind CSS.
+UnitedHealth Group
 
-## 🛠 Tech Stack Displayed
-- Python (FastAPI, Django, Flask)
-- Cloud (AWS: EC2, Lambda, S3, DynamoDB, Redshift | Azure)
-- DevOps (Docker, Kubernetes, Terraform, Jenkins, GitHub Actions)
-- Data Engineering (Airflow, Spark, Kafka, Snowflake)
+Software Engineer
+Jan 2020 – Dec 2021
 
-## ⚡ Setup
-1. Add Cloudflare Token to `docker-compose.yml`.
-2. Add `profile.jpg` to `frontend/static/images/`.
-3. Run `docker compose up --build`.
+Built healthcare backend services using Python, FastAPI, Flask
+
+Developed React-based dashboards with real-time analytics
+
+Designed ETL pipelines with Airflow & Snowflake
+
+Deployed containerized apps on Kubernetes (EKS)
+
+Implemented observability with CloudWatch & New Relic
+
+Ensured compliance and secure data exchange across systems
+
+Barclays
+
+Software Developer
+Jul 2018 – Dec 2019
+
+Built Django-based backend services for financial systems
+
+Optimized MySQL queries & indexing for high-volume APIs
+
+Developed reporting dashboards with Highcharts & JavaScript
+
+Refactored legacy systems for scalability and performance
+
+Deployed services on Linux / Apache / WSGI
+
+🧰 Tech Stack Snapshot
+
+Languages:
+Python, JavaScript, TypeScript, SQL, Bash
+
+Backend:
+FastAPI, Django, Flask, Django REST Framework
+
+Frontend:
+React.js, Next.js, AngularJS, Vue.js, Redux, D3.js, Recharts, Highcharts
+
+Cloud & DevOps:
+AWS (EC2, Lambda, RDS, S3, Glue, Redshift, EKS, IAM, KMS, SNS, SQS)
+Docker, Kubernetes, Helm, Terraform, AWS CDK, Ansible
+
+Data & Messaging:
+PostgreSQL, MySQL, Snowflake, Redshift, MongoDB, DynamoDB, Redis
+Kafka, Kinesis
+
+CI/CD & Testing:
+GitHub Actions, Jenkins, GitLab CI, SonarQube
+Pytest, Selenium, Behave, TDD / BDD
+
+GenAI & ML:
+OpenAI, AWS Bedrock, LangChain, RAG, Vector Databases
+
+🎓 Education
+
+Master of Science – Computer Science
+Pace University, Seidenberg School of CS (2022 – 2023)
+
+Bachelor of Science – Computer Engineering
+St. Francis Institute of Technology
+
+🤝 Let’s Connect
+
+If you’re a recruiter, hiring manager, or engineering leader looking for someone who can:
+
+Own backend systems end-to-end
+
+Scale APIs & data pipelines
+
+Build cloud-native, production-ready platforms
+
+Integrate GenAI responsibly into real systems
+
+📩 Let’s talk: geniusmachado@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/geniusmachado
