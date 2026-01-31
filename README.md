@@ -1,7 +1,7 @@
 👋 Hi, I’m Genius Machado
 
 Senior Python / Full-Stack Software Engineer
-📍 Los Angeles, California
+📍 NYC, New York
 📧 geniusmachado@gmail.com
 
 🔗 LinkedIn
