@@ -188,8 +188,8 @@ OpenAI, AWS Bedrock, LangChain, RAG, Vector Databases
 Master of Science – Computer Science
 Pace University, Seidenberg School of CS (2022 – 2023)
 
-Bachelor of Science – Computer Engineering
-St. Francis Institute of Technology
+Bachelor of Engineering – Computer Engineering
+St. Francis Institute of Technology (Mumbai University)
 
 🤝 Let’s Connect
 
