@@ -6,8 +6,6 @@ Senior Python / Full-Stack Software Engineer
 
 🔗 LinkedIn
 
-🌐 Portfolio & Blog
-
 🚀 About Me
 
 I’m a Senior Python Engineer with years of experience building scalable, secure, cloud-native systems across finance, healthcare, and enterprise analytics. I specialize in backend-heavy systems, API design, data engineering, and cloud infrastructure, while also delivering polished frontend experiences when needed.
