@@ -10,9 +10,9 @@ Senior Python / Full-Stack Software Engineer
 
 🚀 About Me
 
-I’m a Senior Python Engineer with 7+ years of experience building scalable, secure, cloud-native systems across finance, healthcare, and enterprise analytics. I specialize in backend-heavy systems, API design, data engineering, and cloud infrastructure, while also delivering polished frontend experiences when needed.
+I’m a Senior Python Engineer with years of experience building scalable, secure, cloud-native systems across finance, healthcare, and enterprise analytics. I specialize in backend-heavy systems, API design, data engineering, and cloud infrastructure, while also delivering polished frontend experiences when needed.
 
-I’ve worked at Mass General Brigham, Fitch Ratings, American Express, UnitedHealth Group, and Barclays, where I built and scaled mission-critical platforms handling high-volume data, real-time APIs, ETL pipelines, and GenAI integrations.
+I built and scaled mission-critical platforms handling high-volume data, real-time APIs, ETL pipelines, and GenAI integrations.
 
 I thrive in environments where performance, reliability, and clean architecture matter.
 
