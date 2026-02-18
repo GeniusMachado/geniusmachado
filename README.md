@@ -2,7 +2,7 @@
 
 Senior Python / Full-Stack Software Engineer
 📍 NYC, New York
-📧 geniusmachado@gmail.com
+📧 geniusmachadod@gmail.com
 
 🔗 LinkedIn
 
@@ -67,12 +67,6 @@ Data visualizations with D3.js, Recharts, Highcharts
 
 Full-stack delivery when required — backend first, UI always purposeful
 
-🏢 Professional Experience
-Mass General Brigham
-
-Software Engineer – API Development
-Aug 2025 – Present | Boston, MA
-
 Build and maintain FastAPI-based APIs connecting Legacy Viewer ↔ Epic Beaker
 
 Handle large pathology & imaging datasets using Snowflake & PostgreSQL
@@ -84,11 +78,6 @@ Collaborate with pathologists, data scientists, and IT teams
 Refactor API routes, modularize codebases, and enforce secure design practices
 
 Improve system reliability, scalability, and data accessibility
-
-Fitch Ratings
-
-Python Developer
-Oct 2023 – Jul 2025 | New York, NY
 
 Built Django + FastAPI services for credit risk and bond analytics
 
@@ -106,11 +95,6 @@ Implemented monitoring with CloudWatch, Prometheus, Grafana, New Relic
 
 Mentored junior engineers on FastAPI architecture & CI/CD
 
-American Express
-
-Python Developer
-Jan 2023 – Sep 2023
-
 Built FastAPI & Flask microservices for financial platforms
 
 Implemented OAuth2 & JWT authentication
@@ -125,11 +109,6 @@ Automated infra using Terraform, AWS CDK, Ansible
 
 Supported A/B testing frameworks and feature flags
 
-UnitedHealth Group
-
-Software Engineer
-Jan 2020 – Dec 2021
-
 Built healthcare backend services using Python, FastAPI, Flask
 
 Developed React-based dashboards with real-time analytics
@@ -141,11 +120,6 @@ Deployed containerized apps on Kubernetes (EKS)
 Implemented observability with CloudWatch & New Relic
 
 Ensured compliance and secure data exchange across systems
-
-Barclays
-
-Software Developer
-Jul 2018 – Dec 2019
 
 Built Django-based backend services for financial systems
 
@@ -183,13 +157,7 @@ Pytest, Selenium, Behave, TDD / BDD
 GenAI & ML:
 OpenAI, AWS Bedrock, LangChain, RAG, Vector Databases
 
-🎓 Education
 
-Master of Science – Computer Science
-Pace University, Seidenberg School of CS (2022 – 2023)
-
-Bachelor of Engineering – Computer Engineering
-St. Francis Institute of Technology (Mumbai University)
 
 🤝 Let’s Connect
 
@@ -203,6 +171,6 @@ Build cloud-native, production-ready platforms
 
 Integrate GenAI responsibly into real systems
 
-📩 Let’s talk: geniusmachado@gmail.com
+📩 Let’s talk: geniusmachadod@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/geniusmachado
