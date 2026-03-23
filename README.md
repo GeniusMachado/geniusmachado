@@ -2,7 +2,7 @@
 
 Senior Python / Full-Stack Software Engineer
 📍 NYC, New York
-📧 geniusmachadod@gmail.com
+📧 geniusmachado@gmail.com
 
 🔗 LinkedIn
 
