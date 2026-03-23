@@ -169,6 +169,6 @@ Build cloud-native, production-ready platforms
 
 Integrate GenAI responsibly into real systems
 
-📩 Let’s talk: geniusmachadod@gmail.com
+📩 Let’s talk: geniusmachado@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/geniusmachado
