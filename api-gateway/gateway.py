@@ -1,3 +1,5 @@
+
+
 import os
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse, RedirectResponse
@@ -9,6 +11,9 @@ from dotenv import load_dotenv
 load_dotenv()
 ENGINE_URL = os.getenv("ENGINE_URL", "http://localhost:8002")
 
+
+print(ENGINE_URL)
+ 
 app = FastAPI(title="Genius Portfolio Gateway")
 os.makedirs("frontend/static", exist_ok=True)
 app.mount("/static", StaticFiles(directory="frontend/static"), name="static")
